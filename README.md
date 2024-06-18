@@ -6,40 +6,39 @@ This page contains previews of my projects, click on the titles to see my contri
 
 <table>
   <tr>
-    <td width="50%">
+  <td width="50%" rowspan="2">
 
 ### [SoulHerd](SoulHerd#soulherd)
-      
-  </td>
-  <td width="25%"><img src="Images/SoulHerd/Preview0.jpg" /></td>
-  <td width="25%"><img src="Images/SoulHerd/Preview1.jpg" /></td>
-  </tr>
-  <tr>
-    <td width="50%">
-
 **Development time**: Eight weeks (Apr - Jun '24)  
 **Team size**: Three programmers, four artists  
 **Engine**: Unreal 
-
+      
   </td>
+  <td width="25%" margin="0px" padding="0px"><img src="Images/SoulHerd/Preview0.jpg" /></td>
+  <td width="25%" margin="0px" padding="0px"><img src="Images/SoulHerd/Preview1.jpg" /></td>
+  </tr>
+  <tr>
   <td width="25%"><img src="Images/SoulHerd/Preview2.png" /></td>
   <td width="25%"><img src="Images/SoulHerd/Preview3.jpg" /></td>
   </tr>
-    </td>
 </table>
+
+<table>
+  <tr>
+    <td width="50%" rowspan="2">
 
 ### [Spellslingers](Spellslingers#spellslingers)
 **Development time**: Seven weeks (Nov '23 - Jan '24)  
 **Team size**: Three programmers, three artists  
 **Engine**: Unity  
-<table>
-  <tr>
-    <td width="50%"><img src="Images\" /></td>
-    <td width="50%"><img src="Images\" /></td>
+      
+  </td>
+  <td width="25%" margin="0px" padding="0px"><img src="Images/SoulHerd/Preview0.jpg" /></td>
+  <td width="25%" margin="0px" padding="0px"><img src="Images/SoulHerd/Preview1.jpg" /></td>
   </tr>
   <tr>
-    <td width="50%"><img src="Images\" /></td>
-    <td width="50%"><img src="Images\" /></td>
+  <td width="25%"><img src="Images/SoulHerd/Preview2.png" /></td>
+  <td width="25%"><img src="Images/SoulHerd/Preview3.jpg" /></td>
   </tr>
 </table>
 
