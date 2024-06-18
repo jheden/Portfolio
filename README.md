@@ -4,22 +4,29 @@ This page contains previews of my projects, click on the titles to see my contri
 
 ## Games
 
-### [SoulHerd](SoulHerd#soulherd)
-**Development time**: Eight weeks (Apr - Jun '24)  
-**Team size**: Three programmers, four artists  
-**Engine**: Unreal  
 <table>
   <tr>
-    <td width="50%"><img src="Images\" /></td>
-    <td width="50%"><img src="Images\" /></td>
+    <td width="100%">
+
+### [SoulHerd](SoulHerd#soulherd)
+      
+  </td>
+  <td width="25%"><img src="Images\" /></td>
+  <td width="25%"><img src="Images\" /></td>
   </tr>
   <tr>
-    <td width="50%"><img src="Images\" /></td>
-    <td width="50%"><img src="Images\" /></td>
-  </tr>
-</table>
+    <td width="100%">
 
----
+**Development time**: Eight weeks (Apr - Jun '24)  
+**Team size**: Three programmers, four artists  
+**Engine**: Unreal 
+
+  </td>
+  <td width="25%"><img src="Images\" /></td>
+  <td width="25%"><img src="Images\" /></td>
+  </tr>
+    </td>
+</table>
 
 ### [Spellslingers](Spellslingers#spellslingers)
 **Development time**: Seven weeks (Nov '23 - Jan '24)  
