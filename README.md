@@ -6,13 +6,13 @@ This page contains previews of my projects, click on the titles to see my contri
 
 <table>
   <tr>
-    <td width="100%">
+    <td width="50%">
 
 ### [SoulHerd](SoulHerd#soulherd)
       
   </td>
-  <td width="25%"><img src="Images\" /></td>
-  <td width="25%"><img src="Images\" /></td>
+  <td width="25%"><img src="Images/SoulHerd/Preview0.jpg" /></td>
+  <td width="25%"><img src="Images/SoulHerd/Preview1.jpg" /></td>
   </tr>
   <tr>
     <td width="100%">
@@ -22,8 +22,8 @@ This page contains previews of my projects, click on the titles to see my contri
 **Engine**: Unreal 
 
   </td>
-  <td width="25%"><img src="Images\" /></td>
-  <td width="25%"><img src="Images\" /></td>
+  <td width="25%"><img src="Images/SoulHerd/Preview2.png" /></td>
+  <td width="25%"><img src="Images/SoulHerd/Preview3.jpg" /></td>
   </tr>
     </td>
 </table>
