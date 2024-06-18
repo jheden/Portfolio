@@ -15,7 +15,7 @@ This page contains previews of my projects, click on the titles to see my contri
   <td width="25%"><img src="Images/SoulHerd/Preview1.jpg" /></td>
   </tr>
   <tr>
-    <td width="100%">
+    <td width="50%">
 
 **Development time**: Eight weeks (Apr - Jun '24)  
 **Team size**: Three programmers, four artists  
