@@ -8,7 +8,7 @@ This page contains previews of my projects, click on the titles to see my contri
   <tr>
   <td width="50%" rowspan="2">
 
-### [SoulHerd](SoulHerd#soulherd)
+### [SoulHerd](Games/SoulHerd#soulherd)
 **Development time**: Eight weeks (Apr - Jun '24)  
 **Team size**: Three programmers, four artists  
 **Engine**: Unreal 
@@ -27,7 +27,7 @@ This page contains previews of my projects, click on the titles to see my contri
   <tr>
     <td width="50%" rowspan="2">
 
-### [Spellslingers](Spellslingers#spellslingers)
+### [Spellslingers](Games/Spellslingers#spellslingers)
 **Development time**: Seven weeks (Nov '23 - Jan '24)  
 **Team size**: Three programmers, three artists  
 **Engine**: Unity  
@@ -50,7 +50,7 @@ This page contains previews of my projects, click on the titles to see my contri
   <tr>
     <td width="50%" rowspan="2">
 
-### Global Game Jam 2024 - [Shake Spear](ShakeSpear#shakespear)
+### Global Game Jam 2024 - [Shake Spear](GameJams/ShakeSpear#shakespear)
 **Development time**: Three days (Apr '24)  
 **Team size**: Three programmers, four artists  
 **Engine**: Unity  
@@ -71,7 +71,7 @@ This page contains previews of my projects, click on the titles to see my contri
   <tr>
     <td width="50%" rowspan="2">
 
-### Leap Year Game Jam 2024 - [What is "Up"?](WhatIsUp#whatisup)
+### Leap Year Game Jam 2024 - [What is "Up"?](GameJams/WhatIsUp#whatisup)
 **Development time**: Eight hours (Feb '24)  
 **Team size**: Solo  
 **Engine**: Unity  
@@ -92,7 +92,7 @@ This page contains previews of my projects, click on the titles to see my contri
   <tr>
     <td width="50%" rowspan="2">
 
-### Yrgo Student Game Jam 2023 - [We Tethered Felines](WeTetheredFelines#wetetheredfelines)
+### Yrgo Student Game Jam 2023 - [We Tethered Felines](GameJams/WeTetheredFelines#wetetheredfelines)
 **Development time**: Three days (Oct '23)  
 **Team size**: Three programmers, two artists  
 **Engine**: Unity  
@@ -113,7 +113,7 @@ This page contains previews of my projects, click on the titles to see my contri
   <tr>
     <td width="50%" rowspan="2">
       
-### Yrgo Student Game Jam 2023 - [Katt-Boom!](KattBoom#kattboom)
+### Yrgo Student Game Jam 2023 - [Katt-Boom!](GameJams/KattBoom#kattboom)
 **Development time**: Three days (Sep '23)  
 **Team size**: Two programmers, two artists  
 **Engine**: Unity  
@@ -136,7 +136,7 @@ This page contains previews of my projects, click on the titles to see my contri
   <tr>
     <td width="50%" rowspan="2">
       
-### [Portals](Portals#portals)
+### [Portals](Prototypes/Portals#portals)
 **Development time**: Four weeks (Mar '24)  
 **Team size**: Just me  
 **Engine**: Unreal  
