@@ -1,7 +1,6 @@
-# Jonathan Hedén's Portfolio
+# Jonathan Hedén's Portfolio (currently under construction)
 
 This page contains previews of my projects, click on the titles to see my contributions!
-
 ## Games
 
 <table>
@@ -45,25 +44,6 @@ This page contains previews of my projects, click on the titles to see my contri
 ---
 
 ## Game Jams
-
-<table>
-  <tr>
-    <td width="50%" rowspan="2">
-
-### [Shake Spear](GameJams/ShakeSpear#shake-spear) - Global Game Jam
-**Development time**: Three days (Apr '24)  
-**Team size**: Three programmers, four artists  
-**Engine**: Unity  
-      
-  </td>
-  <td width="25%" margin="0px" padding="0px"><img src="Images/ShakeSpear/Preview0.jpg" /></td>
-  <td width="25%" margin="0px" padding="0px"><img src="Images/ShakeSpear/Preview1.jpg" /></td>
-  </tr>
-  <tr>
-  <td width="25%"><img src="Images/ShakeSpear/Preview2.png" /></td>
-  <td width="25%"><img src="Images/ShakeSpear/Preview3.jpg" /></td>
-  </tr>
-</table>
 
 <table>
   <tr>
@@ -142,5 +122,24 @@ This page contains previews of my projects, click on the titles to see my contri
   <tr>
   <td width="25%"><img src="Images/Portals/Preview2.png" /></td>
   <td width="25%"><img src="Images/Portals/Preview3.jpg" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="50%" rowspan="2">
+
+### [Shake Spear](GameJams/ShakeSpear#shake-spear) - Global Game Jam
+**Development time**: Three days (Apr '24)  
+**Team size**: Just me  
+**Engine**: Unity  
+      
+  </td>
+  <td width="25%" margin="0px" padding="0px"><img src="Images/ShakeSpear/Preview0.jpg" /></td>
+  <td width="25%" margin="0px" padding="0px"><img src="Images/ShakeSpear/Preview1.jpg" /></td>
+  </tr>
+  <tr>
+  <td width="25%"><img src="Images/ShakeSpear/Preview2.png" /></td>
+  <td width="25%"><img src="Images/ShakeSpear/Preview3.jpg" /></td>
   </tr>
 </table>
