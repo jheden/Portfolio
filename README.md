@@ -1,4 +1,4 @@
-# Jonathan Hedén's Portfolio
+# Game Dev Portfolio
 ### (currently under construction)
 
 This page contains previews of my projects, click on the titles to see details and contributions!
@@ -112,8 +112,6 @@ This page contains previews of my projects, click on the titles to see details a
     <td width="50%" rowspan="2">
       
 ### [Portals](Prototypes/Portals#portals)
-**Development time**: Four weeks (Mar '24)  
-**Team size**: Just me  
 **Engine**: Unreal  
       
   </td>
@@ -130,9 +128,7 @@ This page contains previews of my projects, click on the titles to see details a
   <tr>
     <td width="50%" rowspan="2">
 
-### [Shake Spear](GameJams/ShakeSpear#shake-spear) - Global Game Jam
-**Development time**: Three days (Apr '24)  
-**Team size**: Just me  
+### [Board Game Utils](Prototypes/BoardGameUtils#board-game-utils)
 **Engine**: Unity  
       
   </td>

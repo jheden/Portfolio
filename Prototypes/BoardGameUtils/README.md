@@ -1,6 +1,8 @@
 # Board Game Utils
-
 ## Mesh generation from image
+
+<img src="Images/BoardGameUtils/MeshInput.gif" /><img src="Images/BoardGameUtils/MeshOutput.gif" />
+
 ```C#
 public static class MeshGenerator {
     public static GameObject Generate(Sprite sprite, Sprite backSprite, float thickness, Material material, bool addCollider = false, Transform parent = null) {
