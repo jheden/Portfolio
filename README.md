@@ -111,16 +111,16 @@ This page contains previews of my projects, click on the titles to see details a
   <tr>
     <td width="50%" rowspan="2">
 
-### [Portal System](Prototypes/PortalSystem#portal-system)
+### [Portal Implementation](Prototypes/PortalImplementation#portal-implementation)
 **Engine**: Unreal  
       
   </td>
-  <td width="25%" margin="0px" padding="0px"><img src="Images/PortalSystem/Preview0.jpg" /></td>
-  <td width="25%" margin="0px" padding="0px"><img src="Images/PortalSystem/Preview0.jpg" /></td>
+  <td width="25%" margin="0px" padding="0px"><img src="Images/PortalImplementation/Preview0.jpg" /></td>
+  <td width="25%" margin="0px" padding="0px"><img src="Images/PortalImplementation/Preview0.jpg" /></td>
   </tr>
   <tr>
-  <td width="25%"><img src="Images/PortalSystem/Preview2.png" /></td>
-  <td width="25%"><img src="Images/PortalSystem/Preview3.jpg" /></td>
+  <td width="25%"><img src="Images/PortalImplementation/Preview2.png" /></td>
+  <td width="25%"><img src="Images/PortalImplementation/Preview3.jpg" /></td>
   </tr>
 </table>
 
@@ -138,22 +138,5 @@ This page contains previews of my projects, click on the titles to see details a
   <tr>
   <td width="25%"><img src="Images/BoardGameUtils/Preview2.png" /></td>
   <td width="25%"><img src="Images/BoardGameUtils/Preview3.jpg" /></td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td width="50%" rowspan="2">
-      
-### [Portal System](Prototypes/PortalSystem#portal-system)
-**Engine**: Unreal  
-      
-  </td>
-  <td width="25%" margin="0px" padding="0px"><img src="Images/PortalSystem/Preview0.jpg" /></td>
-  <td width="25%" margin="0px" padding="0px"><img src="Images/PortalSystem/Preview1.jpg" /></td>
-  </tr>
-  <tr>
-  <td width="25%"><img src="Images/PortalSystem/Preview2.png" /></td>
-  <td width="25%"><img src="Images/PortalSystem/Preview3.jpg" /></td>
   </tr>
 </table>
