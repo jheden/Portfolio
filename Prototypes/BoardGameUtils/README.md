@@ -1,8 +1,15 @@
 # Board Game Utils
 ## Mesh generation from image
+<table><tr>
+  <td>Input</td>
+  <td>Output</td>
+</tr><tr>
+  <td><img src="/Images/BoardGameUtils/MeshInput.gif" /></td>
+  <td><img src="/Images/BoardGameUtils/MeshOutput.gif" /></td>
+</tr></table>
 
-<img src="Images/BoardGameUtils/MeshInput.gif" /><img src="Images/BoardGameUtils/MeshOutput.gif" />
-
+<details><summary>MeshGenerator.cs</summary>
+    
 ```C#
 public static class MeshGenerator {
     public static GameObject Generate(Sprite sprite, Sprite backSprite, float thickness, Material material, bool addCollider = false, Transform parent = null) {
@@ -83,3 +90,5 @@ public static class MeshGenerator {
     }
 }
 ```
+
+</details>
