@@ -65,8 +65,6 @@ This page contains previews of my projects, click on the titles to see my contri
   </tr>
 </table>
 
----
-
 <table>
   <tr>
     <td width="50%" rowspan="2">
@@ -86,8 +84,6 @@ This page contains previews of my projects, click on the titles to see my contri
   </tr>
 </table>
 
----
-
 <table>
   <tr>
     <td width="50%" rowspan="2">
@@ -106,8 +102,6 @@ This page contains previews of my projects, click on the titles to see my contri
   <td width="25%"><img src="Images/WeTetheredFelines/Preview3.jpg" /></td>
   </tr>
 </table>
-
----
 
 <table>
   <tr>
