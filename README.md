@@ -111,7 +111,7 @@ This page contains previews of my projects, click on the titles to see details a
   <tr>
     <td width="50%" rowspan="2">
 
-### [Portal Implementation](Prototypes/PortalImplementation#portal-implementation)
+### [Portal System](Prototypes/PortalSystem#portal-system)
 **Engine**: Unreal  
       
   </td>
@@ -136,7 +136,7 @@ This page contains previews of my projects, click on the titles to see details a
   <td width="25%" margin="0px" padding="0px"><img src="Images/BoardGameUtils/MeshOutput.gif" /></td>
   </tr>
   <tr>
-  <td width="25%"><img src="Images/BoardGameUtils/Preview2.png" /></td>
-  <td width="25%"><img src="Images/BoardGameUtils/Preview3.jpg" /></td>
+  <td width="25%"><img src="Images/BoardGameUtils/BoardRandomisation.gif" /></td>
+  <td width="25%"><img src="Images/BoardGameUtils/" /></td>
   </tr>
 </table>
