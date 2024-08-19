@@ -50,7 +50,8 @@ This page contains previews of my projects, click on the titles to see my contri
   <tr>
     <td width="50%" rowspan="2">
 
-### Global Game Jam 2024 - [Shake Spear](GameJams/ShakeSpear#shakespear)
+### [Shake Spear](GameJams/ShakeSpear#shakespear)
+#### Global Game Jam 2024
 **Development time**: Three days (Apr '24)  
 **Team size**: Three programmers, four artists  
 **Engine**: Unity  
@@ -71,7 +72,8 @@ This page contains previews of my projects, click on the titles to see my contri
   <tr>
     <td width="50%" rowspan="2">
 
-### Leap Year Game Jam 2024 - [What is "Up"?](GameJams/WhatIsUp#whatisup)
+### [What is "Up"?](GameJams/WhatIsUp#whatisup)
+#### Leap Year Game Jam 2024
 **Development time**: Eight hours (Feb '24)  
 **Team size**: Solo  
 **Engine**: Unity  
@@ -92,7 +94,8 @@ This page contains previews of my projects, click on the titles to see my contri
   <tr>
     <td width="50%" rowspan="2">
 
-### Yrgo Student Game Jam 2023 - [We Tethered Felines](GameJams/WeTetheredFelines#wetetheredfelines)
+### [We Tethered Felines](GameJams/WeTetheredFelines#wetetheredfelines)
+#### Yrgo Student Game Jam 2023
 **Development time**: Three days (Oct '23)  
 **Team size**: Three programmers, two artists  
 **Engine**: Unity  
@@ -113,7 +116,8 @@ This page contains previews of my projects, click on the titles to see my contri
   <tr>
     <td width="50%" rowspan="2">
       
-### Yrgo Student Game Jam 2023 - [Katt-Boom!](GameJams/KattBoom#kattboom)
+### [Katt-Boom!](GameJams/KattBoom#kattboom)
+#### Yrgo Student Game Jam 2023
 **Development time**: Three days (Sep '23)  
 **Team size**: Two programmers, two artists  
 **Engine**: Unity  
