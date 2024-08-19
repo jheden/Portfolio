@@ -132,11 +132,11 @@ This page contains previews of my projects, click on the titles to see details a
 **Engine**: Unity  
       
   </td>
-  <td width="25%" margin="0px" padding="0px"><img src="Images/ShakeSpear/Preview0.jpg" /></td>
-  <td width="25%" margin="0px" padding="0px"><img src="Images/ShakeSpear/Preview1.jpg" /></td>
+  <td width="25%" margin="0px" padding="0px"><img src="Images/BoardGameUtils/MeshInput.gif" /></td>
+  <td width="25%" margin="0px" padding="0px"><img src="Images/BoardGameUtils/MeshOutput.gif" /></td>
   </tr>
   <tr>
-  <td width="25%"><img src="Images/ShakeSpear/Preview2.png" /></td>
-  <td width="25%"><img src="Images/ShakeSpear/Preview3.jpg" /></td>
+  <td width="25%"><img src="Images/BoardGameUtils/Preview2.png" /></td>
+  <td width="25%"><img src="Images/BoardGameUtils/Preview3.jpg" /></td>
   </tr>
 </table>
