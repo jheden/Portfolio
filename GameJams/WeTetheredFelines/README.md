@@ -5,8 +5,7 @@ A co-op platformer starring two cats with their tails in a knot.
 * The tails and tether mechanic between players.
 ## Player state machine
 <details>
-<summary>PlayerController.cs</summary>
-```C#
+<summary>PlayerController.cs</summary>```C#
 private void ChangeState(PlayerState newState)
 {
     if (newState == _state) return;
@@ -85,8 +84,7 @@ private void ChangeState(PlayerState newState)
 
     _state = newState;
 }
-```
-</details>
+```</details>
 ## Level generation from images
 ```C#
 using UnityEngine;
