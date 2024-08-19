@@ -50,7 +50,7 @@ This page contains previews of my projects, click on the titles to see my contri
   <tr>
     <td width="50%" rowspan="2">
 
-### [Shake Spear](GameJams/ShakeSpear#shakespear) - Global Game Jam
+### [Shake Spear](GameJams/ShakeSpear#shake-spear) - Global Game Jam
 **Development time**: Three days (Apr '24)  
 **Team size**: Three programmers, four artists  
 **Engine**: Unity  
@@ -69,7 +69,7 @@ This page contains previews of my projects, click on the titles to see my contri
   <tr>
     <td width="50%" rowspan="2">
 
-### [What is "Up"?](GameJams/WhatIsUp#whatisup) - Leap Year Game Jam
+### [What is "Up"?](GameJams/WhatIsUp#what-is-up) - Leap Year Game Jam
 **Development time**: Eight hours (Feb '24)  
 **Team size**: Solo  
 **Engine**: Unity  
@@ -88,7 +88,7 @@ This page contains previews of my projects, click on the titles to see my contri
   <tr>
     <td width="50%" rowspan="2">
 
-### [We Tethered Felines](GameJams/WeTetheredFelines#wetetheredfelines) - Yrgo Student Jam
+### [We Tethered Felines](GameJams/WeTetheredFelines#we-tethered-felines) - Yrgo Student Jam
 **Development time**: Three days (Oct '23)  
 **Team size**: Three programmers, two artists  
 **Engine**: Unity  
@@ -107,7 +107,7 @@ This page contains previews of my projects, click on the titles to see my contri
   <tr>
     <td width="50%" rowspan="2">
       
-### [Katt-Boom!](GameJams/KattBoom#kattboom) - Yrgo Student Jam
+### [Katt-Boom!](GameJams/KattBoom#katt-boom) - Yrgo Student Jam
 **Development time**: Three days (Sep '23)  
 **Team size**: Two programmers, two artists  
 **Engine**: Unity  
