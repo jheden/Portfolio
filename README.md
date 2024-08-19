@@ -111,16 +111,16 @@ This page contains previews of my projects, click on the titles to see details a
   <tr>
     <td width="50%" rowspan="2">
       
-### [Portals](Prototypes/Portals#portals)
+### [Portals](Prototypes/PortalSystem#portal-system)
 **Engine**: Unreal  
       
   </td>
-  <td width="25%" margin="0px" padding="0px"><img src="Images/Portals/Preview0.jpg" /></td>
-  <td width="25%" margin="0px" padding="0px"><img src="Images/Portals/Preview1.jpg" /></td>
+  <td width="25%" margin="0px" padding="0px"><img src="Images/PortalSystem/Preview0.jpg" /></td>
+  <td width="25%" margin="0px" padding="0px"><img src="Images/PortalSystem/Preview1.jpg" /></td>
   </tr>
   <tr>
-  <td width="25%"><img src="Images/Portals/Preview2.png" /></td>
-  <td width="25%"><img src="Images/Portals/Preview3.jpg" /></td>
+  <td width="25%"><img src="Images/PortalSystem/Preview2.png" /></td>
+  <td width="25%"><img src="Images/PortalSystem/Preview3.jpg" /></td>
   </tr>
 </table>
 

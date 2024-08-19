@@ -1,4 +1,4 @@
-# Portals
+# Portal System
 
 ## Effect portals
 
