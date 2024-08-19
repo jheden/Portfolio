@@ -1,6 +1,7 @@
-# Jonathan Hedén's Portfolio (currently under construction)
+# Jonathan Hedén's Portfolio
+### (currently under construction)
 
-This page contains previews of my projects, click on the titles to see my contributions!
+This page contains previews of my projects, click on the titles to see details and contributions!
 ## Games
 
 <table>
