@@ -111,7 +111,7 @@ This page contains previews of my projects, click on the titles to see details a
   <tr>
     <td width="50%" rowspan="2">
       
-### [Portals](Prototypes/PortalSystem#portal-system)
+### [Portal System](Prototypes/PortalSystem#portal-system)
 **Engine**: Unreal  
       
   </td>
