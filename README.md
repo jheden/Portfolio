@@ -92,7 +92,7 @@ This page contains previews of my projects, click on the titles to see my contri
   <tr>
     <td width="50%" rowspan="2">
 
-### [We Tethered Felines](GameJams/WeTetheredFelines#wetetheredfelines) - Yrgo Student Game Jam
+### [We Tethered Felines](GameJams/WeTetheredFelines#wetetheredfelines) - Yrgo Student Jam
 **Development time**: Three days (Oct '23)  
 **Team size**: Three programmers, two artists  
 **Engine**: Unity  
@@ -113,7 +113,7 @@ This page contains previews of my projects, click on the titles to see my contri
   <tr>
     <td width="50%" rowspan="2">
       
-### [Katt-Boom!](GameJams/KattBoom#kattboom) - Yrgo Student Game Jam
+### [Katt-Boom!](GameJams/KattBoom#kattboom) - Yrgo Student Jam
 **Development time**: Three days (Sep '23)  
 **Team size**: Two programmers, two artists  
 **Engine**: Unity  
