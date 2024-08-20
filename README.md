@@ -144,7 +144,7 @@ Because of that, this page is probably going to be under construction for a whil
     <td width="50%" rowspan="2">
 
 ### [Board Game Utils](Prototypes/BoardGameUtils#board-game-utils)
-**Development time**: Four weeks (Jan - Feb '24)  
+**Development time**: One week (Jan '24)  
 **Team size**: Solo  
 **Engine**: Unity  
       
