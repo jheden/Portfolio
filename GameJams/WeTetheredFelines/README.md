@@ -1,8 +1,6 @@
 # We Tethered Felines
-
 A co-op platformer starring two cats with their tails in a knot.
 
-* The tails and tether mechanic between players.
 ## Player state machine
 <details><summary>PlayerController.cs</summary>
 
