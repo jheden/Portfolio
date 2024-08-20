@@ -1,4 +1,7 @@
 # Board Game Utils
+The half baked result of a sudden urge to make virtual board games, starting with the wonderful Hare & Tortoise.
+Ended up having to put a pin in this for studies, but managed to at least get a few things done.
+
 ## Mesh generation from image
 <table><tr>
   <td>Input</td>
