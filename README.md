@@ -112,6 +112,8 @@ This page contains previews of my projects, click on the titles to see details a
     <td width="50%" rowspan="2">
 
 ### [Third Person Portal](Prototypes/ThirdPersonPortal#third-person-portal)
+**Development time**: Three weeks (Mar '24)   
+**Team size**: Solo  
 **Engine**: Unreal  
       
   </td>
@@ -129,6 +131,8 @@ This page contains previews of my projects, click on the titles to see details a
     <td width="50%" rowspan="2">
 
 ### [Board Game Utils](Prototypes/BoardGameUtils#board-game-utils)
+**Development time**: Four weeks (Jan - Feb '24)  
+**Team size**: Solo  
 **Engine**: Unity  
       
   </td>
