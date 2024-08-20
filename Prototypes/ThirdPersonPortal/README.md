@@ -9,3 +9,19 @@
 ## Transportation portals
 
 * Can be looked through, walked through and shot through.
+
+<img src="/Images/ThirdPersonPortal/LookThroughEffects.gif" />
+
+[Blueprint](https://blueprintue.com/blueprint/d9r_7f2w/)
+
+<img src="/Images/ThirdPersonPortal/WalkThroughEffects.gif" />
+
+[Blueprint](https://blueprintue.com/blueprint/d9r_7f2w/)
+
+<img src="/Images/ThirdPersonPortal/LookThroughTransport.gif" />
+
+[Blueprint](https://blueprintue.com/blueprint/d9r_7f2w/)
+
+<img src="/Images/ThirdPersonPortal/WalkThroughTransport.gif" />
+
+[Blueprint](https://blueprintue.com/blueprint/d9r_7f2w/)
