@@ -3,7 +3,7 @@ This page contains previews of my projects, click on the titles for details on m
 
 
 <details><summary>Disclaimer</summary>
-I like writing code, unlike taking screenshots/videos and writing short stories.
+I love writing code, unlike taking screenshots/videos and writing short stories about it (although I do enjoy discussing code, but I digress).
 
 Because of that, this page is probably going to be under construction for a while longer.
 </details>
