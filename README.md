@@ -1,5 +1,5 @@
 # Game Dev Portfolio
-This page contains previews of my projects, click on the titles to see details and contributions!
+This page contains previews of my projects, click on the titles for details on my contributions.
 
 
 <details><summary>Disclaimer</summary>
