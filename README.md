@@ -17,7 +17,9 @@ Because of that, this page is probably going to be under construction for a whil
 ### [SoulHerd](Games/SoulHerd#soulherd)
 **Development time**: Eight weeks (Apr - Jun '24)  
 **Team size**: Three programmers, four artists  
-**Engine**: Unreal 
+**Engine**: Unreal  
+
+[itch.io](https://yrgo-game-creator.itch.io/soulherd)
       
   </td>
   <td width="25%" margin="0px" padding="0px"><img src="Images/SoulHerd/../ComingSoon.jpg" /></td>
@@ -37,6 +39,8 @@ Because of that, this page is probably going to be under construction for a whil
 **Development time**: Seven weeks (Nov '23 - Jan '24)  
 **Team size**: Three programmers, three artists  
 **Engine**: Unity  
+
+[itch.io](https://yrgo-game-creator.itch.io/spellslingers)
       
   </td>
   <td width="25%" margin="0px" padding="0px"><img src="Images/Spellslingers/Preview0.png" /></td>
