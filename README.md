@@ -1,5 +1,5 @@
 # Game Dev Portfolio
-### (currently under construction)
+### (Currently under construction)
 
 This page contains previews of my projects, click on the titles to see details and contributions!
 ## Games
