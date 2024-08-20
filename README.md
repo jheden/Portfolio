@@ -111,16 +111,18 @@ This page contains previews of my projects, click on the titles to see details a
   <tr>
     <td width="50%" rowspan="2">
 
-### [Portal System](Prototypes/PortalSystem#portal-system)
+### [Third Person Portal](Prototypes/ThirdPersonPortal#third-person-portal)
+**Development time**: Three weeks (Mar '24)   
+**Team size**: Solo  
 **Engine**: Unreal  
       
   </td>
-  <td width="25%" margin="0px" padding="0px"><img src="Images/PortalImplementation/Preview0.jpg" /></td>
-  <td width="25%" margin="0px" padding="0px"><img src="Images/PortalImplementation/Preview0.jpg" /></td>
+  <td width="25%" margin="0px" padding="0px"><img src="Images/ThirdPersonPortal/Preview0.gif" /></td>
+  <td width="25%" margin="0px" padding="0px"><img src="Images/ThirdPersonPortal/Preview1.gif" /></td>
   </tr>
   <tr>
-  <td width="25%"><img src="Images/PortalImplementation/Preview2.png" /></td>
-  <td width="25%"><img src="Images/PortalImplementation/Preview3.jpg" /></td>
+  <td width="25%"><img src="Images/ThirdPersonPortal/Preview2.gif" /></td>
+  <td width="25%"><img src="Images/ThirdPersonPortal/Preview3.gif" /></td>
   </tr>
 </table>
 
@@ -129,14 +131,16 @@ This page contains previews of my projects, click on the titles to see details a
     <td width="50%" rowspan="2">
 
 ### [Board Game Utils](Prototypes/BoardGameUtils#board-game-utils)
+**Development time**: Four weeks (Jan - Feb '24)  
+**Team size**: Solo  
 **Engine**: Unity  
       
   </td>
-  <td width="25%" margin="0px" padding="0px"><img src="Images/BoardGameUtils/MeshInput.gif" /></td>
-  <td width="25%" margin="0px" padding="0px"><img src="Images/BoardGameUtils/MeshOutput.gif" /></td>
+  <td width="25%" margin="0px" padding="0px"><img src="Images/BoardGameUtils/Preview0.gif" /></td>
+  <td width="25%" margin="0px" padding="0px"><img src="Images/BoardGameUtils/Preview1.gif" /></td>
   </tr>
   <tr>
-  <td width="25%"><img src="Images/BoardGameUtils/BoardRandomisation.gif" /></td>
-  <td width="25%"><img src="Images/BoardGameUtils/MovingPieces.gif" /></td>
+  <td width="25%"><img src="Images/BoardGameUtils/Preview2.gif" /></td>
+  <td width="25%"><img src="Images/BoardGameUtils/Preview3.gif" /></td>
   </tr>
 </table>
