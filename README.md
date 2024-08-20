@@ -39,12 +39,12 @@ Because of that, this page is probably going to be under construction for a whil
 **Engine**: Unity  
       
   </td>
-  <td width="25%" margin="0px" padding="0px"><img src="Images/Spellslingers/../ComingSoon.jpg" /></td>
-  <td width="25%" margin="0px" padding="0px"><img src="Images/Spellslingers/../ComingSoon.jpg" /></td>
+  <td width="25%" margin="0px" padding="0px"><img src="Images/Spellslingers/Preview0.png" /></td>
+  <td width="25%" margin="0px" padding="0px"><img src="Images/Spellslingers/Preview1.png" /></td>
   </tr>
   <tr>
-  <td width="25%"><img src="Images/Spellslingers/../ComingSoon.jpg" /></td>
-  <td width="25%"><img src="Images/Spellslingers/../ComingSoon.jpg" /></td>
+  <td width="25%"><img src="Images/Spellslingers/Preview2.png" /></td>
+  <td width="25%"><img src="Images/Spellslingers/Preview3.png" /></td>
   </tr>
 </table>
 
