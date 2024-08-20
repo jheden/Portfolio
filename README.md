@@ -14,12 +14,12 @@ This page contains previews of my projects, click on the titles to see details a
 **Engine**: Unreal 
       
   </td>
-  <td width="25%" margin="0px" padding="0px"><img src="Images/SoulHerd/Preview0.jpg" /></td>
-  <td width="25%" margin="0px" padding="0px"><img src="Images/SoulHerd/Preview1.jpg" /></td>
+  <td width="25%" margin="0px" padding="0px"><img src="Images/SoulHerd/../ComingSoon.jpg" /></td>
+  <td width="25%" margin="0px" padding="0px"><img src="Images/SoulHerd/../ComingSoon.jpg" /></td>
   </tr>
   <tr>
-  <td width="25%"><img src="Images/SoulHerd/Preview2.png" /></td>
-  <td width="25%"><img src="Images/SoulHerd/Preview3.jpg" /></td>
+  <td width="25%"><img src="Images/SoulHerd/../ComingSoon.jpg" /></td>
+  <td width="25%"><img src="Images/SoulHerd/../ComingSoon.jpg" /></td>
   </tr>
 </table>
 
@@ -33,12 +33,12 @@ This page contains previews of my projects, click on the titles to see details a
 **Engine**: Unity  
       
   </td>
-  <td width="25%" margin="0px" padding="0px"><img src="Images/Spellslingers/Preview0.jpg" /></td>
-  <td width="25%" margin="0px" padding="0px"><img src="Images/Spellslingers/Preview1.jpg" /></td>
+  <td width="25%" margin="0px" padding="0px"><img src="Images/Spellslingers/../ComingSoon.jpg" /></td>
+  <td width="25%" margin="0px" padding="0px"><img src="Images/Spellslingers/../ComingSoon.jpg" /></td>
   </tr>
   <tr>
-  <td width="25%"><img src="Images/Spellslingers/Preview2.png" /></td>
-  <td width="25%"><img src="Images/Spellslingers/Preview3.jpg" /></td>
+  <td width="25%"><img src="Images/Spellslingers/../ComingSoon.jpg" /></td>
+  <td width="25%"><img src="Images/Spellslingers/../ComingSoon.jpg" /></td>
   </tr>
 </table>
 
@@ -56,12 +56,12 @@ This page contains previews of my projects, click on the titles to see details a
 **Engine**: Unity  
       
   </td>
-  <td width="25%" margin="0px" padding="0px"><img src="Images/WhatIsUp/Preview0.jpg" /></td>
-  <td width="25%" margin="0px" padding="0px"><img src="Images/WhatIsUp/Preview1.jpg" /></td>
+  <td width="25%" margin="0px" padding="0px"><img src="Images/WhatIsUp/../ComingSoon.jpg" /></td>
+  <td width="25%" margin="0px" padding="0px"><img src="Images/WhatIsUp/../ComingSoon.jpg" /></td>
   </tr>
   <tr>
-  <td width="25%"><img src="Images/WhatIsUp/Preview2.png" /></td>
-  <td width="25%"><img src="Images/WhatIsUp/Preview3.jpg" /></td>
+  <td width="25%"><img src="Images/WhatIsUp/../ComingSoon.jpg" /></td>
+  <td width="25%"><img src="Images/WhatIsUp/../ComingSoon.jpg" /></td>
   </tr>
 </table>
 
@@ -75,12 +75,12 @@ This page contains previews of my projects, click on the titles to see details a
 **Engine**: Unity  
       
   </td>
-  <td width="25%" margin="0px" padding="0px"><img src="Images/WeTetheredFelines/Preview0.jpg" /></td>
-  <td width="25%" margin="0px" padding="0px"><img src="Images/WeTetheredFelines/Preview1.jpg" /></td>
+  <td width="25%" margin="0px" padding="0px"><img src="Images/WeTetheredFelines/../ComingSoon.jpg" /></td>
+  <td width="25%" margin="0px" padding="0px"><img src="Images/WeTetheredFelines/../ComingSoon.jpg" /></td>
   </tr>
   <tr>
-  <td width="25%"><img src="Images/WeTetheredFelines/Preview2.png" /></td>
-  <td width="25%"><img src="Images/WeTetheredFelines/Preview3.jpg" /></td>
+  <td width="25%"><img src="Images/WeTetheredFelines/../ComingSoon.jpg" /></td>
+  <td width="25%"><img src="Images/WeTetheredFelines/../ComingSoon.jpg" /></td>
   </tr>
 </table>
 
@@ -94,12 +94,12 @@ This page contains previews of my projects, click on the titles to see details a
 **Engine**: Unity  
       
   </td>
-  <td width="25%" margin="0px" padding="0px"><img src="Images/KattBoom/Preview0.jpg" /></td>
-  <td width="25%" margin="0px" padding="0px"><img src="Images/KattBoom/Preview1.jpg" /></td>
+  <td width="25%" margin="0px" padding="0px"><img src="Images/KattBoom/../ComingSoon.jpg" /></td>
+  <td width="25%" margin="0px" padding="0px"><img src="Images/KattBoom/../ComingSoon.jpg" /></td>
   </tr>
   <tr>
-  <td width="25%"><img src="Images/KattBoom/Preview2.png" /></td>
-  <td width="25%"><img src="Images/KattBoom/Preview3.jpg" /></td>
+  <td width="25%"><img src="Images/KattBoom/../ComingSoon.jpg" /></td>
+  <td width="25%"><img src="Images/KattBoom/../ComingSoon.jpg" /></td>
   </tr>
 </table>
 
