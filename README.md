@@ -63,7 +63,10 @@ Because of that, this page is probably going to be under construction for a whil
 ### [What is "Up"?](GameJams/WhatIsUp#what-is-up) - Leap Year Game Jam
 **Development time**: Eight hours (Feb '24)  
 **Team size**: Solo  
+
 **Engine**: Unity  
+
+[itch.io](https://nrdxn.itch.io/what-is-up)
       
   </td>
   <td width="25%" margin="0px" padding="0px"><img src="Images/WhatIsUp/../ComingSoon.jpg" /></td>
