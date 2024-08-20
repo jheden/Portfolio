@@ -137,6 +137,6 @@ This page contains previews of my projects, click on the titles to see details a
   </tr>
   <tr>
   <td width="25%"><img src="Images/BoardGameUtils/BoardRandomisation.gif" /></td>
-  <td width="25%"><img src="Images/BoardGameUtils/" /></td>
+  <td width="25%"><img src="Images/BoardGameUtils/MovingPieces.gif" /></td>
   </tr>
 </table>
