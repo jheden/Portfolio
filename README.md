@@ -1,7 +1,13 @@
 # Game Dev Portfolio
-### (Currently under construction)
-
 This page contains previews of my projects, click on the titles to see details and contributions!
+
+
+<details><summary>Disclaimer</summary>
+I like writing code, unlike taking screenshots/videos and writing short stories.
+
+Because of that, this page is probably going to be under construction for a while longer.
+</details>
+
 ## Games
 
 <table>
