@@ -1,6 +1,6 @@
 # Spellslingers
 
-A twin-stick arena battler with wizards casting a whopping 126 spells.
+A twin-stick arena battler with wizards where you're able to cast a whopping 126 different spells.
 
 * Idea and design
 * Systems for health, damage, and resistances.
