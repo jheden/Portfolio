@@ -22,12 +22,12 @@ Because of that, this page is probably going to be under construction for a whil
 [itch.io](https://yrgo-game-creator.itch.io/soulherd)
       
   </td>
-  <td width="25%" margin="0px" padding="0px"><img src="Images/SoulHerd/../ComingSoon.jpg" /></td>
-  <td width="25%" margin="0px" padding="0px"><img src="Images/SoulHerd/../ComingSoon.jpg" /></td>
+  <td width="25%" margin="0px" padding="0px"><img src="Images/SoulHerd/Preview0.jpg" /></td>
+  <td width="25%" margin="0px" padding="0px"><img src="Images/SoulHerd/Preview1.jpg" /></td>
   </tr>
   <tr>
-  <td width="25%"><img src="Images/SoulHerd/../ComingSoon.jpg" /></td>
-  <td width="25%"><img src="Images/SoulHerd/../ComingSoon.jpg" /></td>
+  <td width="25%"><img src="Images/SoulHerd/Preview2.png" /></td>
+  <td width="25%"><img src="Images/SoulHerd/Preview3.jpg" /></td>
   </tr>
 </table>
 
