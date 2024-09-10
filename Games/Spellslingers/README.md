@@ -2,6 +2,8 @@
 
 A twin-stick arena battler with wizards where you're able to cast a whopping 126 different spells.
 
+My contributions (details coming) include:
+
 * Idea and design
 * Systems for health, damage, and resistances.
 * Base classes and final implementation of status ailments and most of the spells.
